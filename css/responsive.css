@@ -1,0 +1,85 @@
+@media (max-width:768px) {
+  body{
+    font-size: 15px;
+  }
+  .logo img{
+    width: 120px;
+  }
+  .logo{
+    margin-left: 20px;
+  }
+  .signin{
+    margin-left: 10px;
+  }
+  header{
+    padding: 35px 20px;
+  }
+  /* heading */
+  .heading{
+    width: 100%;
+  }
+  .heading h1, .heading h5{
+    font-size: 32px;
+  }
+  .heading p{
+    font-size: 15px;
+  }
+  /* getstarted */
+  .getstarted input[type=email]{
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  /* enjoy, download, watch, create*/
+  .enjoy, .download, .watch, .create{
+    height: auto;
+  }
+  .inner{
+    width: 100%; 
+    position: static;
+    flex-direction: column;
+    transform: translate(0, 0);
+    text-align: center;
+  }
+  .inner .desc{
+    padding: 20px 0;
+  }
+  .inner .desc h2{
+    font-size: 28px;
+    font-weight: 600;
+    margin-top: 80px;
+    margin-bottom: 1em;
+  }
+  .inner .desc p{
+    width: 90%;
+    margin: auto;
+    margin-bottom: .8em;
+  }
+  .inner .preview{
+    width: 90%;
+    margin-bottom: 1.5em;
+  }
+  .inner .preview img{
+    width: 100%;
+  }
+  /* FAQ */
+  .faq-inner{
+    width: 80%;
+    text-align: center;
+  }
+  .faq-inner h1{
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 20px;
+  }
+  /* footer */
+  .footer-inner{
+    width: 100%;
+  }
+  .items{
+    width: 48%;
+    text-align: center;
+  }
+  .copyright{
+    text-align: center;
+  }
+}

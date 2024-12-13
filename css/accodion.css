@@ -1,0 +1,12 @@
+.accodion{}
+input[name=faq]{}
+input[name=faq]+label{}
+.faq_content{
+  border: 1px solid black;
+  max-height: 0;
+  overflow: hidden;
+}
+
+input[name=faq]:checked + label + .faq_content{
+  max-height: 500px;
+}
