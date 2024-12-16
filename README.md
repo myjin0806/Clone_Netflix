@@ -6,7 +6,7 @@
 > 2024.08.25 - 2024.08.26
 
 ## 배포 주소
-> [Netflix](https://myjin0806.github.io/Clone_Netflix/)
+> [Netflix](https://myjin0806.github.io/clone_netflix/)
 
 ## 링크
 > [와이어프레임](https://docs.google.com/presentation/d/1Hrht2wblGNndUZ5tSExs4mQ9dg27GckW/edit?usp=sharing&ouid=116868756633642900730&rtpof=true&sd=true)
